@@ -1,0 +1,10 @@
+C:\Users\Stina\source\repos\visualisering\visualisering\obj\Debug\visualisering.csprojResolveAssemblyReference.cache
+C:\Users\Stina\source\repos\visualisering\visualisering\obj\Debug\visualisering.Form1.resources
+C:\Users\Stina\source\repos\visualisering\visualisering\obj\Debug\visualisering.Properties.Resources.resources
+C:\Users\Stina\source\repos\visualisering\visualisering\obj\Debug\visualisering.csproj.GenerateResource.Cache
+C:\Users\Stina\source\repos\visualisering\visualisering\obj\Debug\visualisering.csproj.CoreCompileInputs.cache
+C:\Users\Stina\source\repos\visualisering\visualisering\bin\Debug\visualisering.exe.config
+C:\Users\Stina\source\repos\visualisering\visualisering\bin\Debug\visualisering.exe
+C:\Users\Stina\source\repos\visualisering\visualisering\bin\Debug\visualisering.pdb
+C:\Users\Stina\source\repos\visualisering\visualisering\obj\Debug\visualisering.exe
+C:\Users\Stina\source\repos\visualisering\visualisering\obj\Debug\visualisering.pdb
